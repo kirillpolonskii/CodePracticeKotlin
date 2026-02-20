@@ -3,3 +3,4 @@
 ![](presentation/ads/codeforces/cur_detailed_stats_codeforces.png)
 ## LeetCode
 ![LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/kirillpolonskii?theme=dark&bgColor=282828)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kirillpolonskii)
