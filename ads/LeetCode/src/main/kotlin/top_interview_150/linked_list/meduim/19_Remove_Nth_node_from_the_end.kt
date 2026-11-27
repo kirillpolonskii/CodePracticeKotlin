@@ -40,7 +40,7 @@ class Solution19 {
                 ++ptrCounter
             }
         }
-        // 2 edge cases: deleted is last or second to last
+        // 1 edge cases: deleted is last or second to last
         if (n == 1){ // delete last
             elemBeforeDeleted!!.next = null
         }
